@@ -1,0 +1,4 @@
+# WHAT
+小米路由器 shadowsocks 插件
+# USAGE
+cd /tmp && rm -rf *.sh && wget http://192.168.31.159:8888/lan/miwifi-ss-master/miwifi.sh && chmod +x miwifi.sh && sh ./miwifi.sh && rm -rf *.sh
